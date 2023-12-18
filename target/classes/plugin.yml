@@ -1,0 +1,5 @@
+name: ColorSplash
+version: '1.20.4'
+main: org.bennocrafter.cs
+api-version: 1.13
+commands:
