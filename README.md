@@ -1,2 +1,2 @@
 # ColorSplash
-A meinecraft splatoon plugin
+A minecraft splatoon plugin
